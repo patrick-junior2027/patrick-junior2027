@@ -40,7 +40,5 @@
 | Repositório | Foco do Estudo / Entrega | Ferramentas |
 | :--- | :--- | :--- |
 | **[Dashboard de Vendas & KPIs](https://github.com/SEU-USUARIO/projeto-bi-vendas)** | Análise de métricas, filtros interativos e leitura de indicadores. | `Power BI`, `DAX`, `Excel` |
-| **[Consultas & Modelagem SQL](https://github.com/SEU-USUARIO/estudos-sql)** | Joins, agregações, limpeza de dados e estruturação de tabelas. | `SQL`, `PostgreSQL` |
-| **[Tratamento de Dados em Python](https://github.com/SEU-USUARIO/dados-python)** | Exploração, limpeza e preparação de bases para análise. | `Python`, `Pandas` |
 
 ---
